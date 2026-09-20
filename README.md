@@ -1,9 +1,8 @@
-# 💧 EcoÁgua: Sistema de Classificação e Conscientização de Consumo
+# 💧 Consumo de Água: Sistema de Classificação e Conscientização de Consumo
 
 > Um sistema desenvolvido em **Python** para apoiar campanhas de conscientização ambiental de companhias de saneamento, classificando o perfil de consumo de imóveis e emitindo alertas educativos personalizados aos moradores.
 
 ---
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
